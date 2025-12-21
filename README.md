@@ -30,21 +30,13 @@ My name is **Roman (Horekki)** and I'm a passionate Fullstack Developer crafting
 
 Here are some of the projects I've built from the ground up:
 
-<a href="https://github.com/Horekki/fullstack-clothing-store">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Horekki&repo=fullstack-clothing-store&theme=radical&title_color=ff6b9d&text_color=f8f9fa&icon_color=79ff97&bg_color=0d1117&description=Fullstack+e-commerce+for+fashion+with+FastAPI+and+Next.js" />
-</a>
+[![Fullstack Clothing Store](https://github-readme-stats-federez.vercel.app/api/pin?username=Horekki&repo=fullstack-clothing-store&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_radius=12)](https://github.com/Horekki/fullstack-clothing-store)
 
-<a href="https://github.com/Horekki/fullstack-rental-platform">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Horekki&repo=fullstack-rental-platform&theme=radical&title_color=ff6b9d&text_color=f8f9fa&icon_color=79ff97&bg_color=0d1117&description=Property+rental+platform+with+Next.js+TypeScript+and+PostgreSQL" />
-</a>
+[![Fullstack Rental Platform](https://github-readme-stats-federez.vercel.app/api/pin?username=Horekki&repo=fullstack-rental-platform&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_radius=12)](https://github.com/Horekki/fullstack-rental-platform)
 
-<a href="https://github.com/Horekki/fullstack-board-game-store">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Horekki&repo=fullstack-board-game-store&theme=radical&title_color=ff6b9d&text_color=f8f9fa&icon_color=79ff97&bg_color=0d1117&description=Board+game+e-commerce+with+Spring+Boot+React+and+Stripe+payments" />
-</a>
+[![Fullstack Board Game Store](https://github-readme-stats-federez.vercel.app/api/pin?username=Horekki&repo=fullstack-board-game-store&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_radius=12)](https://github.com/Horekki/fullstack-board-game-store)
 
-<a href="https://github.com/Horekki/portfolio-rsschool">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Horekki&repo=portfolio-rsschool&theme=radical&title_color=ff6b9d&text_color=f8f9fa&icon_color=79ff97&bg_color=0d1117&description=Collection+of+interactive+frontend+projects+from+RS+School" />
-</a>
+[![Portfolio RS School](https://github-readme-stats-federez.vercel.app/api/pin?username=Horekki&repo=portfolio-rsschool&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_radius=12)](https://github.com/Horekki/portfolio-rsschool)
 
 ---
 
@@ -52,3 +44,5 @@ Here are some of the projects I've built from the ground up:
   <i>Let's build something amazing together.</i><br>
   <i>⚡ Open to internships, collaborations, and cool ideas.</i>
 </p>
+
+<script src="https://cdn.jsdelivr.net/npm/github-repo-cards@2.1.0/app.js" defer></script>
