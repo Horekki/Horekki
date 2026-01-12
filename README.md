@@ -23,28 +23,35 @@ My name is **Roman (Horekki)** and I'm a passionate Fullstack Developer crafting
 
 - ### 📈 My GitHub Stats
 
-![Roman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Horekki&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Horekki&layout=compact&theme=radical&hide_border=true)
+<a href="https://github.com/Horekki">
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=Horekki&show_icons=true&theme=dark" />
+</a>
+
+<a href="https://github.com/Horekki">
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Horekki&layout=compact&theme=dark" />
+</a>
+
 
 ### 🚀 Featured Projects
 
 Here are some of the projects I've built from the ground up:
 
-<a href="https://github.com/Horekki/fullstack-clothing-store">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Horekki&repo=fullstack-clothing-store&theme=radical&title_color=ff6b9d&text_color=f8f9fa&icon_color=79ff97&bg_color=0d1117&description=Fullstack+fashion+e-commerce+with+Python+FastAPI+%26+Next.js" />
-</a>
+<p align="center">
+  <a href="https://github.com/Horekki/fullstack-clothing-store">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Horekki&repo=fullstack-clothing-store&theme=dark&desc=0" />
+  </a>
+  <a href="https://github.com/Horekki/fullstack-rental-platform">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Horekki&repo=fullstack-rental-platform&theme=dark&desc=0" />
+  </a>
+  <a href="https://github.com/Horekki/fullstack-board-game-store">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Horekki&repo=fullstack-board-game-store&theme=dark&desc=0" />
+  </a>
+  <a href="https://github.com/Horekki/portfolio-rsschool">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Horekki&repo=portfolio-rsschool&theme=dark&desc=0" />
+  </a>
+</p>
 
-<a href="https://github.com/Horekki/fullstack-rental-platform">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Horekki&repo=fullstack-rental-platform&theme=radical&title_color=ff6b9d&text_color=f8f9fa&icon_color=79ff97&bg_color=0d1117&description=Property+rental+platform+with+booking+calendar+and+filters" />
-</a>
 
-<a href="https://github.com/Horekki/fullstack-board-game-store">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Horekki&repo=fullstack-board-game-store&theme=radical&title_color=ff6b9d&text_color=f8f9fa&icon_color=79ff97&bg_color=0d1117&description=Board+game+e-commerce+with+Stripe+payments+and+reviews" />
-</a>
-
-<a href="https://github.com/Horekki/portfolio-rsschool">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Horekki&repo=portfolio-rsschool&theme=radical&title_color=ff6b9d&text_color=f8f9fa&icon_color=79ff97&bg_color=0d1117&description=Collection+of+interactive+frontend+projects+from+RS+School" />
-</a>
 
 
 ---
