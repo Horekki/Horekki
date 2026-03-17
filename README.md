@@ -37,6 +37,9 @@ My name is **Roman (Horekki)** and I'm a passionate Fullstack Developer crafting
 Here are some of the projects I've built from the ground up:
 
 <p align="center">
+  <a href="https://github.com/Horekki/portfolio-rsschool">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Horekki&repo=portfolio-rsschool&theme=dark&desc=0" />
+  </a>
   <a href="https://github.com/Horekki/fullstack-clothing-store">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Horekki&repo=fullstack-clothing-store&theme=dark&desc=0" />
   </a>
@@ -45,9 +48,6 @@ Here are some of the projects I've built from the ground up:
   </a>
   <a href="https://github.com/Horekki/fullstack-board-game-store">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Horekki&repo=fullstack-board-game-store&theme=dark&desc=0" />
-  </a>
-  <a href="https://github.com/Horekki/portfolio-rsschool">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Horekki&repo=portfolio-rsschool&theme=dark&desc=0" />
   </a>
 </p>
 
